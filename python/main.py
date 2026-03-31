@@ -9,7 +9,7 @@ import logging
 
 
 # --- CONFIGURATION SWITCH ---
-# Options: "dynamics" (Original Rabi/Population) OR "sensing" (CPMG Sequence)
+# Options: "dynamics" (Original Rabi/Population) OR "sensing" (CPMG Sequence) test
 MODE = "sensing"  # Change to "dynamics" for original simulation
 # ----------------------------
 

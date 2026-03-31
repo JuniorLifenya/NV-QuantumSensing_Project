@@ -1,0 +1,4 @@
+# Ignore all heavy data files
+*.hdf5
+src/Gw_Strain_Data
+__pycache__
